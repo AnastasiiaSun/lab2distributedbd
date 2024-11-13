@@ -1,0 +1,14 @@
+C:\Users\Asia\Desktop\lab2\lab2.DAL\bin\Debug\net8.0\lab2.DAL.deps.json
+C:\Users\Asia\Desktop\lab2\lab2.DAL\bin\Debug\net8.0\lab2.DAL.runtimeconfig.json
+C:\Users\Asia\Desktop\lab2\lab2.DAL\bin\Debug\net8.0\lab2.DAL.dll
+C:\Users\Asia\Desktop\lab2\lab2.DAL\bin\Debug\net8.0\lab2.DAL.pdb
+C:\Users\Asia\Desktop\lab2\lab2.DAL\obj\Debug\net8.0\lab2.DAL.csproj.AssemblyReference.cache
+C:\Users\Asia\Desktop\lab2\lab2.DAL\obj\Debug\net8.0\lab2.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asia\Desktop\lab2\lab2.DAL\obj\Debug\net8.0\lab2.DAL.AssemblyInfoInputs.cache
+C:\Users\Asia\Desktop\lab2\lab2.DAL\obj\Debug\net8.0\lab2.DAL.AssemblyInfo.cs
+C:\Users\Asia\Desktop\lab2\lab2.DAL\obj\Debug\net8.0\lab2.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asia\Desktop\lab2\lab2.DAL\obj\Debug\net8.0\lab2.DAL.dll
+C:\Users\Asia\Desktop\lab2\lab2.DAL\obj\Debug\net8.0\refint\lab2.DAL.dll
+C:\Users\Asia\Desktop\lab2\lab2.DAL\obj\Debug\net8.0\lab2.DAL.pdb
+C:\Users\Asia\Desktop\lab2\lab2.DAL\obj\Debug\net8.0\lab2.DAL.genruntimeconfig.cache
+C:\Users\Asia\Desktop\lab2\lab2.DAL\obj\Debug\net8.0\ref\lab2.DAL.dll

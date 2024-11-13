@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asia\\Desktop\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|c:\\users\\asia\\desktop\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|c:\\users\\asia\\desktop\\lab2\\lab2\\services\\studentmongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|solutionrelative:lab2\\services\\studentmongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|c:\\users\\asia\\desktop\\lab2\\lab2\\services\\mongoservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|solutionrelative:lab2\\services\\mongoservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|c:\\users\\asia\\desktop\\lab2\\lab2\\services\\imongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|solutionrelative:lab2\\services\\imongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|c:\\users\\asia\\desktop\\lab2\\lab2\\services\\updateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|solutionrelative:lab2\\services\\updateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|c:\\users\\asia\\desktop\\lab2\\lab2\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|solutionrelative:lab2\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|c:\\users\\asia\\desktop\\lab2\\lab2.dal\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|solutionrelative:lab2.dal\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|c:\\users\\asia\\desktop\\lab2\\lab2.dal\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|solutionrelative:lab2.dal\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:11:56.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Student.cs",
+              "RelativeDocumentMoniker": "lab2.DAL\\Student.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Student.cs",
+              "RelativeToolTip": "lab2.DAL\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:42:49.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MongoServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\MongoServicecs.cs",
+              "RelativeDocumentMoniker": "lab2\\Services\\MongoServicecs.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\MongoServicecs.cs",
+              "RelativeToolTip": "lab2\\Services\\MongoServicecs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:38:43.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Settings\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "lab2.DAL\\Settings\\MongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Settings\\MongoDBSettings.cs",
+              "RelativeToolTip": "lab2.DAL\\Settings\\MongoDBSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:35:14.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMongoService.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\IMongoService.cs",
+              "RelativeDocumentMoniker": "lab2\\Services\\IMongoService.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\IMongoService.cs",
+              "RelativeToolTip": "lab2\\Services\\IMongoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:30:20.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateService.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\UpdateService.cs",
+              "RelativeDocumentMoniker": "lab2\\Services\\UpdateService.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\UpdateService.cs",
+              "RelativeToolTip": "lab2\\Services\\UpdateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:28:31.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "lab2\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\StudentService.cs",
+              "RelativeToolTip": "lab2\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:27:49.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentMongo.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\StudentMongo.cs",
+              "RelativeDocumentMoniker": "lab2\\Services\\StudentMongo.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\StudentMongo.cs",
+              "RelativeToolTip": "lab2\\Services\\StudentMongo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:27:47.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

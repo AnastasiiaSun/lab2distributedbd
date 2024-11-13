@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asia\\Desktop\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|c:\\users\\asia\\desktop\\lab2\\lab2\\services\\updateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|solutionrelative:lab2\\services\\updateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|c:\\users\\asia\\desktop\\lab2\\lab2\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|solutionrelative:lab2\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|c:\\users\\asia\\desktop\\lab2\\lab2\\services\\studentmongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|solutionrelative:lab2\\services\\studentmongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|c:\\users\\asia\\desktop\\lab2\\lab2\\services\\mongoservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|solutionrelative:lab2\\services\\mongoservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|c:\\users\\asia\\desktop\\lab2\\lab2\\services\\imongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|solutionrelative:lab2\\services\\imongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|c:\\users\\asia\\desktop\\lab2\\lab2.dal\\migrations\\20241113130431_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|solutionrelative:lab2.dal\\migrations\\20241113130431_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|c:\\users\\asia\\desktop\\lab2\\lab2.dal\\migrations\\lab2dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|solutionrelative:lab2.dal\\migrations\\lab2dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|c:\\users\\asia\\desktop\\lab2\\lab2.dal\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|solutionrelative:lab2.dal\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|c:\\users\\asia\\desktop\\lab2\\lab2.dal\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|solutionrelative:lab2.dal\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|c:\\users\\asia\\desktop\\lab2\\lab2.dal\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|solutionrelative:lab2.dal\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|c:\\users\\asia\\desktop\\lab2\\lab2.dal\\lab2dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|solutionrelative:lab2.dal\\lab2dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|c:\\users\\asia\\desktop\\lab2\\lab2.dal\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|solutionrelative:lab2.dal\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|c:\\users\\asia\\desktop\\lab2\\lab2.dal\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|solutionrelative:lab2.dal\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|c:\\users\\asia\\desktop\\lab2\\lab2.dal\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86681981-BD5B-42FF-A76E-6E58466948A0}|lab2.DAL\\lab2.DAL.csproj|solutionrelative:lab2.dal\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NewSchoolDb/True/SqlTable/dbo.StudentCourses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NewSchoolDb/True/SqlTable/dbo.Courses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NewSchoolDb/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NewSchoolDb/True/SqlTable/dbo.Teachers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|c:\\users\\asia\\desktop\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6090BE-64ED-48FB-8B07-DF4A5926C295}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241113130431_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Migrations\\20241113130431_Initial.cs",
+              "RelativeDocumentMoniker": "lab2.DAL\\Migrations\\20241113130431_Initial.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Migrations\\20241113130431_Initial.cs",
+              "RelativeToolTip": "lab2.DAL\\Migrations\\20241113130431_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:22:16.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lab2DbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Migrations\\Lab2DbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "lab2.DAL\\Migrations\\Lab2DbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Migrations\\Lab2DbContextModelSnapshot.cs",
+              "RelativeToolTip": "lab2.DAL\\Migrations\\Lab2DbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:22:14.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Course.cs",
+              "RelativeDocumentMoniker": "lab2.DAL\\Course.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Course.cs",
+              "RelativeToolTip": "lab2.DAL\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:22:05.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lab2DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Lab2DbContext.cs",
+              "RelativeDocumentMoniker": "lab2.DAL\\Lab2DbContext.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Lab2DbContext.cs",
+              "RelativeToolTip": "lab2.DAL\\Lab2DbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:21:51.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "lab2.DAL\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\StudentCourse.cs",
+              "RelativeToolTip": "lab2.DAL\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:21:46.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Teacher.cs",
+              "RelativeDocumentMoniker": "lab2.DAL\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Teacher.cs",
+              "RelativeToolTip": "lab2.DAL\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:21:42.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "lab2.DAL\\DatabaseSeeder.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\DatabaseSeeder.cs",
+              "RelativeToolTip": "lab2.DAL\\DatabaseSeeder.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:21:15.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.StudentCourses [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NewSchoolDb/True/SqlTable/dbo.StudentCourses.sql",
+              "ToolTip": "dbo.StudentCourses [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-13T18:18:40.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.Courses [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NewSchoolDb/True/SqlTable/dbo.Courses.sql",
+              "ToolTip": "dbo.Courses [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-13T18:18:35.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Students [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NewSchoolDb/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "dbo.Students [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-13T18:18:31.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.Teachers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NewSchoolDb/True/SqlTable/dbo.Teachers.sql",
+              "ToolTip": "dbo.Teachers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-13T18:18:23.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:11:56.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Student.cs",
+              "RelativeDocumentMoniker": "lab2.DAL\\Student.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Student.cs",
+              "RelativeToolTip": "lab2.DAL\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:42:49.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\MongoServicecs.cs",
+              "RelativeDocumentMoniker": "lab2\\Services\\MongoServicecs.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\MongoServicecs.cs",
+              "RelativeToolTip": "lab2\\Services\\MongoServicecs.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:38:43.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Settings\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "lab2.DAL\\Settings\\MongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2.DAL\\Settings\\MongoDBSettings.cs",
+              "RelativeToolTip": "lab2.DAL\\Settings\\MongoDBSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:35:14.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMongoService.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\IMongoService.cs",
+              "RelativeDocumentMoniker": "lab2\\Services\\IMongoService.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\IMongoService.cs",
+              "RelativeToolTip": "lab2\\Services\\IMongoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:30:20.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateService.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\UpdateService.cs",
+              "RelativeDocumentMoniker": "lab2\\Services\\UpdateService.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\UpdateService.cs",
+              "RelativeToolTip": "lab2\\Services\\UpdateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:28:31.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "lab2\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\StudentService.cs",
+              "RelativeToolTip": "lab2\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:27:49.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentMongo.cs",
+              "DocumentMoniker": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\StudentMongo.cs",
+              "RelativeDocumentMoniker": "lab2\\Services\\StudentMongo.cs",
+              "ToolTip": "C:\\Users\\Asia\\Desktop\\lab2\\lab2\\Services\\StudentMongo.cs",
+              "RelativeToolTip": "lab2\\Services\\StudentMongo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:27:47.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
